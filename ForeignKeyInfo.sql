@@ -1,3 +1,5 @@
+-- Foreign key info
+
 SELECT	*
 FROM
 (
